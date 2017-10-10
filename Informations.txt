@@ -1,0 +1,3 @@
+Hello Everyone,
+I'm a student from Patrthenope University in Naples and i have created an Interesting mobile application for Android/iOS with Wikitude 
+and Ionic 2 that lets users see the particular aspects of "Area Marina Protetta Punta Campanella" with Augmented Reality.
